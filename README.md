@@ -24,7 +24,7 @@ OSS8-7
 택배 배송 조회 - delivery tracker
 (https://github.com/shlee322/delivery-tracker)
 
-주문/재고/고객정보관리/체크아웃/결제관리 -medusa
+주문/재고/고객정보관리/체크아웃/결제관리 -opencart
 
 구매대행 중개 서비스 - purchasing_agent_mediation
 (https://github.com/wlsgml719/purchasing_agent_mediation)
